@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the anti-Quaker Misorcus concerning oaths</title>
+            <author>Richardson, Richard, 1623?-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675-1676?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09881</idno>
+            <idno type="OCLC"> 124064259</idno>
+            <idno type="STC">Wing R1399</idno>
+            <idno type="STC">ESTC R182708</idno>
+            <idno type="EEBO-CITATION">124064259</idno>
+            <idno type="OCLC">ocn 124064259</idno>
+            <idno type="VID">192316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192316)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2915:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the anti-Quaker Misorcus concerning oaths</title>
+                  <author>Richardson, Richard, 1623?-1689.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[London : s.n.,</name>
+                     <date>1675 or 6]</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: R.R.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Misorcus. --  Anti-Quaker --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Oaths --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:192316:1" rendition="simple:additions"/>
+            <pb facs="tcp:192316:1"/>
+            <pb facs="tcp:192316:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:192316:2" rendition="simple:additions"/>
+            <head>TO THE Anti-Quaker MISORCUS CONCERNING OATHS</head>
+            <p>A Strange forreign Name, come from <hi>Rome</hi> or <hi>Conſtanti<g ref="char:EOLhyphen"/>nople,</hi> as the
+<hi>illiterate Quaker</hi> may think (he for whom he pretends to have taken ſuch Pains) who being better ac<g ref="char:EOLhyphen"/>quainted with Scripture-Language, and ſeeing his whole Endea<g ref="char:EOLhyphen"/>vours through his Book employed in Oppoſing the Command of Chriſt, and adjuring men to break it by Swearing, thinks it might have been far more truly, properly &amp; pertinently ANTICHRIST's EXORCIST, as one likely to have ſuch an Office in that Synagogue, as the higheſt Preferment he has been capable to attain. And the rather becauſe after the innate Principle thereof he takes upon him immediately after the mention of his weak Endeavours in Doctrine, to ad<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure the Magiſtrate to ſevere Diſcipline, only ſhort of killing the
+<hi>Quakers;</hi> they that delivered the <hi>Martyrs</hi> to be burned, uſed as mild Expreſſions. But whether they will obey the Doctrine or no, they muſt not know their dogmatical Doctor further then by his <hi>Myſtical Name,</hi> for fear (it ſeems) to have that laid (which he caſts upon us) where it is due, which he calls <hi>Calumnies, Reproa<g ref="char:EOLhyphen"/>ches, Railings, Invectives,</hi> againſt which he ſayes there is no Fence for the moſt unſpotted Innocence, and ſuch may he think there
+<pb facs="tcp:192316:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:192316:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:192316:4"/>is not againſt his, who hiding himſelf throws them at us, and be<g ref="char:EOLhyphen"/>ſpatters us for our diſſenting from his Opinions, which (in ours) rather deſerves the <hi>Epithetes</hi> he beſtows. But what Reaſon has he to fear, ſeeing in all our Treatiſe he cannot find it done to any Name there, though many diſſenting from us at very great Diſtances; but that we rather there ſhew our ſelves willing to own the Truth in all, where we can find it in any meaſure, paſſing by the other; yea, even in ſome that have given as ſevere and uncharitable a Character of us, as he has, which, for that Cauſe he revives and returns upon us, being offended that any ſhould menti<g ref="char:EOLhyphen"/>on any Truth, that we might agree with them in, and own, accounting that a Detraction from their Reputation, to whoſe Perſon he confeſſes we have not ſpoken any thing derogatory (neither to any in our whole Treatiſe of Oaths) And his Words, namely, Bp. <hi>Gauden</hi>'s, he does not deny, neither the purport of them; only he is offended they are to our Purpoſe: As he is alſo at <hi>Robert Sanderſon</hi>'s, afterward Biſhop, whereto he is not aſhamed to ſay, <hi>There is not a Syllable thereof in that Page, viz.</hi> 141. <hi>printed</hi> 1670 <hi>in the</hi> 5th <hi>Lecture,</hi> De Obligatione Juramen<g ref="char:EOLhyphen"/>ti. Let any that underſtands <hi>Latine</hi> but look the Page towards the Beginning, and ſee if there be not <hi>Twenty Eight Syllables,</hi> a whole Sentence, an entire Propoſition betwixt two full Points, <hi>viz. Non opus fuit iſta novo interdicto prohibere quae ex ſe erant ſemper illicita.</hi> There was not need by a New Interdiction to prohibit thoſe things, which of themſelves were alwayes unlawful. Be<g ref="char:EOLhyphen"/>cauſe he cannot miſ-interpret this Man a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he does <hi>Jerome,</hi> he takes another courſe, a ſhameful one, to tell a groſs Lye, in denying there are any ſuch words, taking Advantage belike of the ſuppo<g ref="char:EOLhyphen"/>ſed Perfunctorineſs, Credulity or Ignorance of his Readers, think<g ref="char:EOLhyphen"/>ing they would take all on his Word, without Examination, which is great In uſtice. Elſe he durſt not affirm what he does of <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom;</hi> for if any look into the Places cited by us, he may evident<g ref="char:EOLhyphen"/>ly ſee the contrary; and a Man that durſt ſhew his Face, not bra<g ref="char:EOLhyphen"/>zen, durſt not for very Shame ſay as he does, <hi>That his Saying, at leaſt, where there is no Neceſſity, does therefore allow it, and autho<g ref="char:EOLhyphen"/>rize it;</hi> contrary to all the reſt he writes. Theſe Three are all (with <hi>Jerome</hi>) he medles with in his <hi>Preface,</hi> which is all we hear
+<pb n="3" facs="tcp:192316:4"/>of after ſo long Expectation, and ſo return this in ſhort; which is enough for a Dogmatical we know not who.</p>
+            <p>But as for <hi>Jerom</hi>'s Tranſlation and Interpretation that he makes, he has ſhewed himſelf as bad a moral Man as divine; for he leaves out of him <hi>[But the Truth of the Goſpel receives not an Oath, ſeeing every faithful Word is for an Oath]</hi> He might with as good Reaſon leave out of Chriſt's Speech, <hi>But I ſay unto you, Swear not at all:</hi> in the mean time charging us with leaving out that which even the Unlearned may read in our Book, all but
+<hi>[us]</hi> which is not <hi>Jerom</hi>'s, but his; and yet is not aſhamed to tell them, <hi>He ſhall for their Benefit tranſlate it Word for Word:</hi> And if ſo, how is it that he never charges us with leaving out <hi>[us]</hi> a principal Word that determins for him, unleſs it were taken indifinitely, as <hi>[We]</hi> before for <hi>Men,</hi> as ſometimes by <hi>Paul</hi> and
+<hi>James,</hi> the Apoſtles: and why charges he us not with adding all that reſtrictive part afore<g ref="char:EOLhyphen"/>ſaid, which is to be read in ours, and not his? Can it be expected, that the Man that charges us with leaving out that which in plain <hi>Engliſh</hi> is there to be ſeen, with our Obſervation on it, would be ſo favourable, as to paſs by our leaving out that principal Word for him, and adding the principal part for us too of the whole Comment in <hi>ENGLISH,</hi> if it were not in the <hi>LATINE.</hi> The <hi>Quaker</hi> is not ſo unlearned as not to perceive theſe things; and to know and diſcern the Voice of the true Shepherd from the Stranger, and him that hides himſel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and thinks <hi>he may ſay any thing, and not be aſperſed,</hi> as he ſayes, that is, <hi>charged with his lyes and deceit.</hi> Can he account him a true Shepherd that flees and hides himſelf from thoſe he accounts the Woolves Prey, and be ſo raſh and careleſs (to ſay the leaſt) in the Work he ſayes he undertakes for their Benefit and Recovery, as to examine and compare things no better, and then be ſo bitter againſt them for his own Negligence, as to ſet the Magiſtrate at work? Hath not the <hi>Quaker</hi> learned ſo much as to know, that ſuch a one careth not for the Sheep, and therefore is a Hireling? He can find no Be<g ref="char:EOLhyphen"/>nefit in receiving by an implicit Faith, as of old, a <hi>Latin Comment</hi> from a Prieſt's Mouth, that diſtinguiſhes nothing between the <hi>Commands of the Law</hi> and the <hi>Goſpel</hi> by his Interpretation, which he has cauſe to ſuſpect, as aforeſaid. And alſo that after Tythes, he
+<pb n="4" facs="tcp:192316:5"/>will come for Offerings and Sacrifices too: And if they will not give the Prieſt raw Fleſh, he will take it by force before he burn the Fat: And can he believe that he Tranſlates it for his Benefit, that like the <hi>Rhemiſts</hi> leaves
+<hi>Victims</hi> and <hi>Daemons</hi> untranſlated, that he may come to him for a new Interpretation, and yet knows not where, nor what is his Name, unleſs it be St. <hi>Jerom,</hi> ſo not only <hi>Chriſtening</hi> but <hi>Sainting</hi> himſelf. For inſtead of confirming his Interpretation, or explaining it out of other places of the ſame Father (as one would think by his appeal he would have done) he askes the Queſtion, <hi>Doth St.</hi> Jerom <hi>ſay any ſuch thing?</hi> And anſwers himſelf, <hi>I abſolutely deny it,</hi> without further proof, but his own forged Interpretation, and dogmatical Aſſertion, the Authority of this new ſpurious <hi>Jerome.</hi> For as for the ancient Fa<g ref="char:EOLhyphen"/>ther <hi>Jerome,</hi> the <hi>Illiterate Quaker</hi> need but turn back the Leaf in our Treatiſe of Oaths, and there he may find, that in one of his Epiſtles, he writes, that
+<q rend="margQuotes">We muſt not blaſpheme, and ſay, the Lord forbad us, what he did himſelf:</q> And ſayes,
+<q rend="margQuotes">
+                  <hi>That we that are Servants muſt not think to do as the Lord did;</hi>
+               </q> which this man dare not ſay was Swearing falſly or vainly: For that were to blaſ<g ref="char:EOLhyphen"/>pheme with a witneſs. But yet he ſaith, to take off that Ob<g ref="char:EOLhyphen"/>jection,
+<q rend="margQuotes">
+                  <hi>After the Lord forbad us to Swear, neither did he ever Swear himſelf:</hi>
+               </q> May not therefore the <hi>Illiterate Quaker</hi> from this place juſtly ſuſpect, that he has put <hi>[us]</hi> not in ours, into his Tranſlation, which makes the Father contradict himſelf, whom he has a better belief in, then his falſe Son. And may not the
+<hi>Illiterate Quaker</hi> juſtly ſuſpect his <hi>[if]</hi> and his <hi>[ſhould]</hi> which he finds not in ours to be of the ſame Progeny? Seeing it thruſts out a whole Sentence (to make his ſence) which he finds in ours, for none of which paſſages he taxes ours; which certainly he would have done, if we had given him that Advantage, he may think, he finds him not ſo favourable: Neither doth he find him diſapproving our Tranſlating <hi>[by God]</hi> which he without any inſtance oppoſes with his Tranſlating <hi>[againſt God]</hi> for as for ours there may be an Inſtance in the ſame place, for there [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] is rendered by
+<hi>Pagninus</hi> and <hi>Arias Montanus [in Jeruſolyma]</hi> by our Tranſlators <hi>[by Jeruſalem]</hi> not <hi>[againſt Jeruſalem]</hi> anſwerable to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> But that his learned
+<pb n="5" facs="tcp:192316:5"/>
+               <hi>Brethren of the Miniſtry</hi> (as he owns them) may take notice how learnedly this their Brother has come to their Aſſiſtance againſt us; let them conſider that by his Forgery he has not only made the learned Father break his own Head by Contradiction, and other learned Fathers his Contemporaries, as <hi>Hilary, Chroma<g ref="char:EOLhyphen"/>tius, &amp;c.</hi> who with others agree with him, ſaying,
+<q rend="margQuotes">
+                  <hi>Obſerve that Chriſt here not only Reproves the</hi> Jews
+<hi>Superſtition of old, but alſo Forbids his to Swear.</hi>
+               </q> (And to them we appeal for
+<hi>Jerom,</hi> as well as to himſelf: But alſo, he makes him alſo deſperately to break (his Contemporary alſo) <hi>Priſcian</hi> the <hi>Grammarian</hi>'s Head. And we do not read, he bare him ſuch ill-will, ſhewing himſelf as bad Garmmarian as Moral or Divine: For beſides the <hi>[quaſi. as]</hi> of ſimilitude, coupling <hi>[parvulis]</hi> to
+<hi>[Judaeis]</hi> underſtood; he forges another <hi>[quaſi, as if]</hi> of ſimulation to ſerve to <hi>[fuerat]</hi> the indicative, and thinks he has got a great advantage <hi>(tanquam fecerit ipſe aliquid)</hi> that he has got <hi>[fuerat]</hi> inſtead of <hi>fuit:</hi> Which, alas! is none at all, for <hi>fuerat</hi> makes more for us, then <hi>fuit.</hi> He ſayes, it's not <hi>[fuit]</hi> and ſay we, it's not <hi>[fuiſſet]</hi> oh, but, ſayes he, it's
+<hi>[fuerat] quaſi non norimus,</hi> that <hi>[quaſi]</hi> of Simulation <hi>[as if]</hi> requires a Sub<g ref="char:EOLhyphen"/>junctive, and not an Indicative. Let any Boy look in his Gram<g ref="char:EOLhyphen"/>mar, and prove this
+<hi>learned Tranſlator</hi> for the <hi>Illiterate Quaker,</hi> and for his <hi>[quaſi parvulis]</hi> he will write him therein <hi>[Haereticus ma<g ref="char:EOLhyphen"/>juſculis]</hi> as his propereſt name: And to make this paſs, he for<g ref="char:EOLhyphen"/>ges a diſtinction after <hi>[hoc]</hi> to make it accuſative <hi>[this]</hi> and out of it another <hi>[hoc]</hi> a Nominative <hi>[it.]</hi> And ſo with this great <hi>literate man,</hi> theſe little Notes of ſence [<hi>but's, not's, ifs</hi> and <hi>and's</hi>] are but as Nonſence and Metaphyfical Notions, as Inſignificant Nothings, to be multiplyed or ſubſtracted at plea<g ref="char:EOLhyphen"/>ſure. This ſhews he has learned theſe and the other Arts he ſpeaks of very notably, or the art of <hi>Grammar</hi> very ſorrily. What would this Man have done, if he had lived at that time, and had the Tranſlating of
+<hi>Matthews</hi>'s Book, or had had the handling of <hi>Jerom's</hi> Works before
+<hi>Eraſmus;</hi> he would have been a notable Artiſt in the <hi>Expurgatory Office:</hi> And as if he had learned it there, and were to Practice it among <hi>Proteſtants;</hi> he ſhews what he would do, (if it were feizable and permitted) by <hi>Biſhop Sanderſon;</hi> for
+<pb n="6" facs="tcp:192316:6"/>he would not leave one Syllable
+<hi>un-obliturated,</hi> that made againſt him or his Party. But the Lord's Mercy has reſcued theſe our Times and Places from any ones expectation of any ſuch attempt. We ſay not
+<hi>Biſhop Gauden</hi> and <hi>Biſhop Sanderſon</hi> are againſt Swearing at all; but we ſay, what we cite out of them is truly cited: whoſe words one would have thought, he would have made it his buſineſs, not to deny, and oppoſe with ſeveral Reaſons, as if they had been Forged by us: But to have defended, and ſhewn to what purpoſe they had been, if not to ours, if he could; and ſo to have ſhewn his Art.</p>
+            <p>But we ſay, That <hi>Jerom</hi> and <hi>Chryſoſtom</hi> and thoſe learned Fathers, with ſeveral others are againſt it; as they that will make tryal, will be able to judge, if they do it without Prejudice; and to that we refer it, againſt all his <hi>Slanders, Forgings</hi> and
+<hi>Wreſtings,</hi> which are not worth anſwering, they are ſo groſs. What are of any moment in his Arguments are anſwered already to others, only this at preſent to what is cited by him out of Biſhop <hi>Sanderſon,</hi> ſaying, <hi>Swearing is not Ceremonial, and muſt continue, becauſe Controverſies muſt:</hi> We deny that Strife and Controverſie muſt endure; eſpecially ſuch Controverſies for the ending of which Oaths were permitted, they muſt fail, and Cha<g ref="char:EOLhyphen"/>rity never fail. <hi>Controverſie</hi> is not of an <hi>everlaſting Nature,</hi> as <hi>Love</hi> that is moral, is, upon this ground <hi>Swearing</hi> muſt fail. And ſo is not Moral but Ceremonial; as may be ſhewed by the defi<g ref="char:EOLhyphen"/>nition of a Ceremony from two Biſhops, <hi>J. Wilkins,</hi> and <hi>W. Floyd,</hi> in the real <hi>Character.</hi> For there Ceremony is defined a <hi>ſolemn Circumſtance,</hi> which is an external mode, wherewith things are accompanyed and done: Now without this the controverſie failes betwixt us; for abate us the ſolemn Circumſtance wherewith it is accompanyed &amp; done, the thing, confeſſing Truth, ſpeaking in the fear of God, we do not refuſe. The Circumſtances denominates and determins it
+<hi>Swearing.</hi> For the number Seven, as the word <hi>[ſheba]</hi> ſignifies, is a
+<hi>Circumſtance</hi> uſed by the <hi>Ancients</hi> about it, as appears, <hi>Gen.</hi> 21. the firſt place we find the word in: And ſo is <hi>jicrethu berith</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> they made a Covenant, the ſame with <hi>Ferire Faedus</hi> uſed by the <hi>Heathen.</hi> The Subſtance of the old <hi>Swearing,</hi> which the Apoſtle calls <hi>Confeſſing, Rom.</hi>
+14.11. we deny not. It is the
+<pb n="7" facs="tcp:192316:6"/>Ceremony, Circumſtance and Solemnity you contend with us for, which is Swearing, if Judicial it binds not.</p>
+            <p>Yet this Man is not aſhamed to expoſtulate, WHATSO<g ref="char:EOLhyphen"/>EVER IS COMMANDED IN THE OLD TESTA<g ref="char:EOLhyphen"/>MENT, IS IT NOT COMMANDED IN THE NEW; making no Diſtinction of Judicial, Ceremonial and Moral, and making it heinous to affirm the contrary. Who knoweth what he would be at?</p>
+            <closer>
+               <signed>
+                  <hi>By One ſubſcribed to the</hi> Treatiſe of OATHS, <hi>with Conſent of the Reſt, R. R.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:192316:7"/>
+            <pb facs="tcp:192316:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
